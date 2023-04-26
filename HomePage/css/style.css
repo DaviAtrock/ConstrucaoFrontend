@@ -64,3 +64,16 @@ main {
 
 /*-- CSS DO CARROSSEL --*/
 
+.carousel-img {
+  height: 500px;
+}
+
+#carousel {
+  max-width: 90%;
+}
+
+@media (max-width: 480px) {
+  .carousel-img {
+    height: 200px;
+  }
+  }
