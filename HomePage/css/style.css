@@ -77,3 +77,11 @@ main {
     height: 200px;
   }
   }
+
+  /*-- CSS DO FOOTER --*/
+
+footer {
+  flex-shrink: 0;
+  background-color: #fa8334;
+  padding: 20px;
+}
