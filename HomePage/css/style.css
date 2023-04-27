@@ -62,6 +62,12 @@ main {
   margin-top: 30px; /* or any other value that works for you */
 }
 
+/*-- CSS DOS BOTOES DO GRID --*/
+
+.btn-primary {
+  background-color: #fa8334;
+}
+
 /*-- CSS DO CARROSSEL --*/
 
 .carousel-img {
