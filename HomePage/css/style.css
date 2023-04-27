@@ -64,7 +64,7 @@ main {
 
 /*-- CSS DOS BOTOES DO GRID --*/
 
-.btn-primary {
+.btn-primary:hover {
   background-color: #fa8334;
 }
 
@@ -102,4 +102,8 @@ footer {
 
 .social-icons a {
   margin: 5px;
+}
+
+.social-icons a:hover {
+  background-color: grey;
 }
